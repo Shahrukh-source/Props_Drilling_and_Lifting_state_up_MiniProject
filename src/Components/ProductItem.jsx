@@ -8,7 +8,7 @@ const ProductItem = (props) => {
 
   const [title, setTitle] =  useState(props.title);
 function clickHandler(){
-  setTitle("hellow captian")
+  setTitle("My Mercedes")
 }
   
 
